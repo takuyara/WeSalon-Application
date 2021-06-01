@@ -1,0 +1,6 @@
+YJ: INSERT INTO COMMENT (USERNAME, ACTNAME, CONTENT) VALUES ('dyc', 'OW LECTURE 1', 'I love this lecture too much!
+Can't wait to see it!')
+Error: 错误:  语法错误 在 "t" 或附近的
+LINE 2: Can't wait to see it!')
+            ^
+

@@ -1,0 +1,49 @@
+﻿  dbif.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+D:\hope\WeSalon\WeSalon\dbif.cpp(1,1): warning C4005:  “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+D:\hope\WeSalon\WeSalon\dbif.cpp(1,1): warning C4005: D:\hope\WeSalon\WeSalon\dbif.cpp: note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+D:\hope\WeSalon\WeSalon\dbif.cpp(30,13): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(47,13): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(54,13): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(54,13): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(140,16): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(140,16): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(145,16): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(145,16): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(145,16): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 3 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(170,14): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(220,30): warning C4244:  “参数”: 从“LPARAM”转换到“int”，可能丢失数据
+D:\hope\WeSalon\WeSalon\dbif.cpp(221,30): warning C4244:  “参数”: 从“LPARAM”转换到“int”，可能丢失数据
+D:\hope\WeSalon\WeSalon\dbif.cpp(232,30): warning C4244:  “参数”: 从“LPARAM”转换到“int”，可能丢失数据
+D:\hope\WeSalon\WeSalon\dbif.cpp(233,30): warning C4244:  “参数”: 从“LPARAM”转换到“int”，可能丢失数据
+D:\hope\WeSalon\WeSalon\dbif.cpp(261,13): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(268,13): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(268,13): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(275,13): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(282,1): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(289,13): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(289,13): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(321,13): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(327,1): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(332,13): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(332,13): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(332,13): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 3 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(332,13): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 6 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(332,13): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 8 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(344,1): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(350,1): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(350,1): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 4 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(350,1): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 6 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(350,1): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 7 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(360,16): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(360,16): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(360,16): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 3 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(382,1): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(382,1): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(382,1): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 4 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(385,1): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(385,1): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(385,1): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 3 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(398,13): warning C4477:  “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“CStringA”
+D:\hope\WeSalon\WeSalon\dbif.cpp(410,28): warning C4244:  “return”: 从“LONGLONG”转换到“int”，可能丢失数据
+  WeSalon.vcxproj -> D:\hope\WeSalon\x64\Debug\WeSalon.exe

@@ -1,0 +1,4 @@
+﻿  WeSalonDlg.cpp
+WeSalonDlg.obj : error LNK2019: 无法解析的外部符号 "public: bool __thiscall Database::LogIn(class ATL::CStringT<wchar_t,class StrTraitMFC_DLL<wchar_t,class ATL::ChTraitsCRT<wchar_t> > >,class ATL::CStringT<wchar_t,class StrTraitMFC_DLL<wchar_t,class ATL::ChTraitsCRT<wchar_t> > >)" (?LogIn@Database@@QAE_NV?$CStringT@_WV?$StrTraitMFC_DLL@_WV?$ChTraitsCRT@_W@ATL@@@@@ATL@@0@Z)，该符号在函数 "public: void __thiscall CWeSalonDlg::OnBnClickedLogin(void)" (?OnBnClickedLogin@CWeSalonDlg@@QAEXXZ) 中被引用
+D:\PostgreSQL\lib\libpq.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\hope\WeSalon\Debug\WeSalon.exe : fatal error LNK1120: 1 个无法解析的外部命令
